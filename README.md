@@ -2,7 +2,7 @@
 
 A clean, responsive weather dashboard application built with Django that displays real-time weather data for any location worldwide.
 
-🌐 **Live Demo:** [suyogapi.pythonanywhere.com](https://suyogapi.pythonanywhere.com)
+🌐 **Live Demo:** [suyogapi.pythonanywhere.com]https://suyogapi.pythonanywhere.com
 
 ## ✨ Features
 
