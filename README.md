@@ -27,10 +27,3 @@ A clean, responsive weather dashboard application built with Django that display
 **API & Services:**
 - ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-FF6600?style=for-the-badge) OpenWeatherMap API
 - PythonAnywhere (Deployment)
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
