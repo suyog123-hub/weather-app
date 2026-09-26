@@ -42,7 +42,6 @@ def index(request):
         'img':img,
             }
         return render(request, 'index.html', context)
-
     except:
         temp=0
         description="city not found"
